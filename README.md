@@ -1,7 +1,5 @@
-# portfolio-optimization-efficient-frontier
-Portfolio optimization using Modern Portfolio Theory and Efficient Frontier in Python.
 # Portfolio Optimization – Efficient Frontier
-
+Portfolio optimization using Modern Portfolio Theory and Efficient Frontier in Python.
 ## Objective
 This project applies Modern Portfolio Theory to build and analyze an optimal ETF portfolio using historical market data.
 
